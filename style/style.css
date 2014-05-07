@@ -2,7 +2,7 @@ body {
   font-size: 18px;
   color: #525d67;
   background: #f7fafb;
-  font-family: "Open Sans",Arial,"Hiragino Sans GB","Microsoft YaHei","微软雅黑","STHeiti","WenQuanYi Micro Hei",SimSun,sans-serif;
+  font-family: "Georgia","Arial","Hiragino Sans GB","Microsoft YaHei","微软雅黑","STHeiti","WenQuanYi Micro Hei","SimSun",sans-serif;
   font-size: 1.125em;
   -webkit-font-smoothing: antialiased;
   -webkit-transform: translate3d(0,0,0);
@@ -244,7 +244,7 @@ pre code {
   border: none;
   box-shadow: none;
   font-size: 12px;
-  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  font-family: "Panic Sans", "Consolas", "Liberation Mono", "Courier", "monospace";
   margin: 0px;
   white-space: pre;
   word-break: break-all;
