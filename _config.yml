@@ -1,0 +1,17 @@
+markdown:         redcarpet
+highlighter:      pygments
+permalink:        /:categories/:year/:month/:day/:title/
+
+title:            "我了个擦"
+url:              http://wolege.ca
+feed:             /feed.xml
+author:
+    name:         tonic
+    key:          dalaran
+description:      "魔法圣堂"
+copyright:        "CopryRight tonic 2012-2014 by GitHub and Jekyll"
+headdesc:         "void"
+headkeys:         "void 也会暴露我的行踪"
+
+redcarpet:
+    extensions: ["fenced_code_blocks"]
