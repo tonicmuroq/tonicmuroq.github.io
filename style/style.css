@@ -93,6 +93,11 @@ hr {
   margin: 10px auto;
 }
 
+.content img.center {
+  display: block;
+  margin: 0 auto;
+}
+
 blockquote p {
   font-weight: 400;
   line-height: 2.3em;
