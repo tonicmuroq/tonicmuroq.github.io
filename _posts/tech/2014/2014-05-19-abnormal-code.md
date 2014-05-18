@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 各种变法的程序写法
+title: 各种变态的程序写法
 category: tech
 tags: abnormal tech
 ---
