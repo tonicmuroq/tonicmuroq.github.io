@@ -15,7 +15,7 @@ tags: abnormal tech
     
     ```python
     import sys
-    sys.path.insert('/var/shire')
+    sys.path.insert(0, '/var/shire')
     from datetime import datetime
     from xxx.model.yyy import Yyy
     ```
@@ -23,7 +23,7 @@ tags: abnormal tech
     有些奇葩会觉得那个 `sys.path.insert` 把 import 给隔开了... 于是他会这么写:
     
     ```python
-    __import__('sys').path.insert('/var/shire')
+    __import__('sys').path.insert(0, '/var/shire')
     from datetime.import datetime
     from xxx.model.yyy import Yyy
     ```
