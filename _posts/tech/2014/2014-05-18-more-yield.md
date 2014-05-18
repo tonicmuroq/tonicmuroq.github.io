@@ -98,18 +98,23 @@ def co_recvfrom(f, target):
 f 可以是一个 pipe, 可以是一个 unix socket 等, 用法可以是
 
 ```python
-type_fd_mapping = {
-    type1: fd1,
-    type2: fd2,
-    type3: fd3,
+send1 = co_sendto(fd1)
+send2 = co_sendto(fd2)
+send3 = co_sendto(fd3)
+
+type_generator_mapping = {
+    type1: send1,
+    type2: send2,
+    type3: send3,
 }
 
 def sender():
     for d in data:
-        f = type_fd_mapping[get_data_type(d)]
-        co_sendto(f)
+        s = type_generator_mapping[get_data_type(d)]
+        s.send(d)
 
 # g1, g2, g3 是三个filter
+# 可能是在三个线程里
 co_recvfrom(fd1, g1)
 co_recvfrom(fd2, g2)
 co_recvfrom(fd3, g3)
