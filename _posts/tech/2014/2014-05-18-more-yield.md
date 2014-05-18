@@ -24,9 +24,9 @@ def filter(target):
     target.next()
     try:
         while 1:
-        data = yield
-        data = process(data)
-        target.send(data)
+            data = yield
+            data = process(data)
+            target.send(data)
     except GeneratorExit:
         target.close()
 
