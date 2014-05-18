@@ -30,7 +30,7 @@ tags: abnormal tech
     
     ```python
     # 这样写
-    __import__('gevent.monkey').patch_all()
+    __import__('gevent.monkey', fromlist=['gevent', ]).patch_all()
     import socket
     
     # 而不是这样写
