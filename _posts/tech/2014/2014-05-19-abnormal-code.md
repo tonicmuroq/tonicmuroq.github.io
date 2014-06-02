@@ -24,7 +24,7 @@ tags: abnormal tech
     
     ```python
     __import__('sys').path.insert(0, '/var/shire')
-    from datetime.import datetime
+    from datetime import datetime
     from xxx.model.yyy import Yyy
     ```
     
