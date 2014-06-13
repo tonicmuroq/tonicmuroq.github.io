@@ -450,3 +450,12 @@ img {
   border-radius: 128px;
   border: 10px solid #f7fafb;
 }
+
+pre, code {
+  word-break: initial !important;
+  word-wrap: initial !important;
+}
+
+pre {
+  overflow-x: scroll;
+}
