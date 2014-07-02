@@ -10,6 +10,8 @@ description:  关于
 
 相信世界比我们能解释的要大太多
 
+想做一个违反物理学的人
+
 [微博](http://weibo.com/tonicbupt)
 [豆瓣](http://www.douban.com/people/tonicbupt)
 [Instagram](http://instagram.com/tonicbupt)
