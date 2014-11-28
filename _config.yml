@@ -3,7 +3,7 @@ highlighter:      pygments
 permalink:        /:categories/:year/:month/:day/:title/
 
 title:            "木洛七"
-url:              http://wolege.ca
+url:              http://muroq.com
 feed:             /feed.xml
 author:
     name:         tonic
