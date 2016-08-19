@@ -1,16 +1,15 @@
-highlighter:      pygments
-permalink:        /:categories/:year/:month/:day/:title/
-
-title:            "木洛七"
-url:              http://muroq.com
-feed:             /feed.xml
+permalink: "/:categories/:year/:month/:day/:title/"
+title: "木洛七"
+url: "http://muroq.com"
+feed: "/feed.xml"
 author:
-    name:         tonic
-    key:          dalaran
-description:      "平行世界的穿梭者"
-copyright:        "Copyright tonic 2014 by GitHub and Jekyll"
-headdesc:         "Mu'roq 木洛七"
-headkeys:         "muroq"
+    name: "tonic"
+    key: "dalaran"
+description: "平行世界的穿梭者"
+copyright: "Copyright tonic 2014 by GitHub and Jekyll"
+headdesc: "Mu'roq 木洛七"
+headkeys: "muroq"
 
 redcarpet:
-    extensions: ["fenced_code_blocks"]
+    extensions:
+        - "fenced_code_blocks"
