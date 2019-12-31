@@ -12,6 +12,6 @@ description:  关于
 
 想做一个违反物理学的人
 
-[微博](http://weibo.com/tonicbupt)
-[豆瓣](http://www.douban.com/people/tonicbupt)
-[Instagram](http://instagram.com/tonicbupt)
+[豆瓣](https://www.douban.com/people/tonicbupt)
+[Twitter](https://twitter.com/tonicbupt)
+[Instagram](https://instagram.com/tonicbupt)
