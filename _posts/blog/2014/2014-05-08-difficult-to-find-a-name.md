@@ -20,9 +20,9 @@ tags: 困难症 碎碎念
     图片太大了, 根本受不了啊. 随意传了个修过的图, 7.8MB. 所以我需要找一个图片压缩软件. 询问了一下[unTed](http://unted.lofter.com/), 他很好心地说, PS... 我表示为了压个图去装个PS太蛋疼了, 而且PS很贵, 根本买不起(偶尔也会装一下清高). 这时候丫说, 美图秀秀也不错. 我#!&%@$!#^ 
     于是我自己去找了找相关的软件, 看到一个叫iResizer的软件, 看起来不错的样子... 等我下下来, 解压完, 发现他长这样:
     
-    <img src="http://muroq.qiniudn.com/piciresizer.jpg" alt="iResizer" style="width: 200px;" class="center"/>
+    <img src="https://raw.githubusercontent.com/tonicbupt/tonicbupt.github.io/master/images/pic/piciresizer.jpg" alt="iResizer" style="width: 200px;" class="center"/>
     我瞬间有种不好的感觉...
-    <img src="http://muroq.qiniudn.com/emotion-ntmdzdw.png" alt="你tmd在逗我?" style="width: 200px;" class="center"/>
+    <img src="https://raw.githubusercontent.com/tonicbupt/tonicbupt.github.io/master/images/pic/emotion-ntmdzdw.png" alt="你tmd在逗我?" style="width: 200px;" class="center"/>
     打开app一看果然呵呵, 整个在retina屏幕下都是模糊的, 还以为我撸多了...
 
     直接删掉...

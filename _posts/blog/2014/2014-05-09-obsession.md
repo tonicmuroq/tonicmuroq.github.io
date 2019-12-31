@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
 你就会发现... 字就是细了那么一点点!!!
 
-<img src="http://muroq.qiniudn.com/emotion-%E6%88%91%E4%B8%8D%E8%A6%81%E5%90%AC.jpg" alt="啊啊啊!" style="width:200px;" class="center"/>
+<img src="https://raw.githubusercontent.com/tonicbupt/tonicbupt.github.io/master/images/pic/emotion-%E6%88%91%E4%B8%8D%E8%A6%81%E5%90%AC.jpg" alt="啊啊啊!" style="width:200px;" class="center"/>
 
 我了个擦啊完全不能忍这样的情况!!
 
@@ -40,7 +40,7 @@ if __name__ == '__main__':
 完全不能忍!! 于是去修改 `font-weight`, 手发颤地加了个样式 `font-weight: bold;`. 我了个擦! 怎么整个样子全部变粗了! 而且 `print` 之类的关键字并没有更粗! 那么我更加小心翼翼地改成了 `bolder`, 啊哈哈哈哈根本没有区别! 我已经开始怀疑是不是我偷来的 CSS 哪里做了什么手脚 ¬ ¬ 
 去搜了下 `font-weight` 的取值, 发现还可以取整数的. 于是我从100开始尝试, 从100到599都没有任何改变, 到了600的时候一下子变 bold 了. 好可怕啊!!!
 
-<img src="http://muroq.qiniudn.com/emotion-%E6%88%91%E4%B8%8D%E8%A6%81%E5%90%AC.jpg" alt="啊啊啊!" style="width:200px;" class="center"/>
+<img src="https://raw.githubusercontent.com/tonicbupt/tonicbupt.github.io/master/images/pic/emotion-%E6%88%91%E4%B8%8D%E8%A6%81%E5%90%AC.jpg" alt="啊啊啊!" style="width:200px;" class="center"/>
 
 这个时候已经在告诉我自己要放弃了... 
 
@@ -50,6 +50,6 @@ if __name__ == '__main__':
 
 嗯我现在开心多了!
 
-<img src="http://muroq.qiniudn.com/emotion-alu-laugh.jpg" style="width:100px;" class="center"/>
+<img src="https://raw.githubusercontent.com/tonicbupt/tonicbupt.github.io/master/images/pic/emotion-alu-laugh.jpg" style="width:100px;" class="center"/>
 
 另外我也不觉得我有强迫症.

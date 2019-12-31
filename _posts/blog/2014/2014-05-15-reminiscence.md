@@ -14,7 +14,7 @@ category: blog
 
 不过第二天还是让我发现了这个在 AppStore 里有出售的背包. 淘宝一家店里价格是 498, 每天都是特价 498, 让我纠结了很久之后准备下单了. 纠结的原因很简单, 首先是觉得贵, 然后是在想我真的需要换一个包么, 人长得丑换什么样的包也没有救的, 另外就是觉得我这样的想法让现在的包知道了真的好么... 原谅我是个异想天开的精神病... 不过最终我还是下单了. 下单的时候店家告诉我没... 货... 了...
 
-<img src="http://muroq.qiniudn.com/emotion-%E6%88%91%E4%B8%8D%E8%A6%81%E5%90%AC.jpg" alt="啊啊啊!" style="width:200px;" class="center"/> 
+<img src="https://raw.githubusercontent.com/tonicbupt/tonicbupt.github.io/master/images/pic/emotion-%E6%88%91%E4%B8%8D%E8%A6%81%E5%90%AC.jpg" alt="啊啊啊!" style="width:200px;" class="center"/> 
 
 几万头草泥马奔腾而过...
 

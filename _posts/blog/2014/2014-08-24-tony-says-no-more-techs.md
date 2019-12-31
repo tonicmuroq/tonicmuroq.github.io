@@ -20,7 +20,7 @@ tony 说既然我知道那么多乱七八糟的幺蛾子, 就不应该在博客�
 
 好吧我会努力做个好司机的. 第一次贴车车的图到公网... 请无视红绸, 交车的时候 4S 加的... 还好没得前面那个大红花 ¬ ¬
 
-<img src="http://muroq.qiniudn.com/photo-IMG_1880.JPG?imageView/2/w/720/q/85" style="width: 720px;" class="center"/>
+<img src="https://raw.githubusercontent.com/tonicbupt/tonicbupt.github.io/master/images/pic/photo-IMG_1880.JPG?imageView/2/w/720/q/85" style="width: 720px;" class="center"/>
 
 ---
 
