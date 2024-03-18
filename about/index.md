@@ -13,5 +13,5 @@ description:  关于
 想做一个违反物理学的人
 
 [豆瓣](https://www.douban.com/people/tonicbupt)
-[Twitter](https://twitter.com/tonicbupt)
-[Instagram](https://instagram.com/tonicbupt)
+[Twitter](https://twitter.com/tonicmuroq)
+[Instagram](https://instagram.com/tonicmuroq)
